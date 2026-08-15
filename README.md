@@ -30,8 +30,8 @@ This project was built and deployed as part of the **Pinnacle Labs Cloud Computi
 
 ## 🚀 Live Demo
 
-*   **Live Website:** [[Insert your AWS Amplify Link Here]](https://staging.d3361nzeemjhne.amplifyapp.com/)
-*   **Video Walkthrough:** [[Insert your LinkedIn Post/Video Link Here]](https://lnkd.in/p/ddkkt-6W)
+*   **Live Website:** (https://staging.d3361nzeemjhne.amplifyapp.com/)
+*   **Video Walkthrough:** (https://lnkd.in/p/ddkkt-6W)
 
 ---
 
